@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Javier Gonzalez
 - 👀 I’m interested in [Music, Programming, Videogames]
 - 🌱 I’m currently learning [React, Svelte, SASS, Bootstrap 5]
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- Hi, my name is Javier Gonzalez. I'm 23 years old. Actually I'm studying Analista Programador in Inacap.
+- I like to play music (I play guitar and bass)
 
 <!---
 JavierGonzalez998/JavierGonzalez998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
