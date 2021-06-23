@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning [React, Svelte, SASS, Bootstrap 5]
 
 - Hi, my name is Javier Gonzalez. I'm 23 years old. Actually I'm studying Analista Programador in Inacap.
-- I like to play music (I play guitar and bass)
+- I'm from Iquique, Chile.
+- Also I like to play music (I play guitar and bass)
 
 <!---
 JavierGonzalez998/JavierGonzalez998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
