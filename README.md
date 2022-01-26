@@ -1,4 +1,4 @@
-<h1> Hi, I'm Javier Gonzalez 🐱‍🚀</h1>
+<h1> Hi, I'm Javier Gonzalez 😊</h1>
 
 
 ```javascript
