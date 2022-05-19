@@ -2,10 +2,10 @@
 
 
 ```javascript
-const javo = {
+const javier = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, C#],
-  tools: [React, ASP.NET, Bootstrap],
+  code: [Javascript, Python, C#],
+  tools: [React, ASP.NET, Bootstrap, FastApi],
   Hobbies: [RollerSkating, Play_Music, Play_Videogames],
   Goals: "I'd love travel around the world and meet some new places"
 };
