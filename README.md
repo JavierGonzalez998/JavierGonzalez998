@@ -15,7 +15,7 @@ I'm from Iquique, Chile, Im 23 years old. I studied Analista Programador in Inac
 <h2> My sites </h2>
 <a href="https://www.instagram.com/john.doe_98/"><img src="https://img.shields.io/badge/instagram%20@john.doe_98-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/JavierGonzalez998/"><img src="https://img.shields.io/badge/facebook%20Javier_Gonzalez-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://javier-gonzalez.me"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Javier-Gonzalez8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<a href="https://javier-gonzalez.me"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Javier_Gonzalez-4b2de2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 <h2>My stats 📈</h2>
 
