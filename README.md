@@ -11,7 +11,7 @@ const javier = {
 };
 ```
 <h3>About me</h3>
-I'm from Iquique, Chile, Im 23 years old. I studied Analista Programador in Inacap. I love coding and I would like know and learn more about devs and coding ❤
+I'm from Iquique, Chile, Im 24 years old. I studied Analista Programador in Inacap. I love coding and I would like know and learn more about devs and coding ❤
 <h2> My sites </h2>
 <a href="https://www.instagram.com/john.doe_98/"><img src="https://img.shields.io/badge/instagram%20@john.doe_98-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/JavierGonzalez998/"><img src="https://img.shields.io/badge/facebook%20Javier_Gonzalez-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
